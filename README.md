@@ -1,4 +1,5 @@
-Airbnb-Booking-Analysis-EDA-
+# Airbnb-Booking-Analysis-EDA-
+
 # Overview
 Leveraging advanced Exploratory Data Analysis (EDA) techniques, this project focuses on Airbnb's dataset to extract actionable insights. The primary objective is to uncover patterns in booking behaviors, preferences for different types of accommodations, and other key metrics. By employing various data manipulation and visualization methods, the analysis provides a deeper understanding of user interactions with the Airbnb platform.
 
