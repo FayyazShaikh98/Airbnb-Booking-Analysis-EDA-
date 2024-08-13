@@ -32,7 +32,7 @@ Furthermore, the insights enable property owners and managers to tailor their ma
 5. Optimize Pricing, Implement dynamic pricing based on demand and seasonality.
 
 # Acknowledgement
-This Project was associated to Almabetter, I am very greatfull to the entire Almabetter team for guiding me through this entire module.
+This project was associated with Almabetter. I am very grateful to the entire Almabetter team for guiding me through this module.
 
 # Conclusion
 By Performing Exploratory Data Analysis (EDA) on Airbnb Data sets has provided valuable insights into various aspects of the short-term rental market. By analyzing key variables such as room types, pricing strategies, neighborhood demand, and availability patterns, the project has illuminated critical trends and relationships that can significantly influence business decisions.
